@@ -14,6 +14,5 @@ By calculating the relative positions of fingertips to knuckles, the app identif
 3. Start signing!
 
 ## 📜 Supported Signs
-- A, B, C, L, V, W, Y
-- Hello, Yes, No, OK, ILY
-- 
+-  L, V, W
+- Hello, Yes
